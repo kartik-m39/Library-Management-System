@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 ### Installation
 1. Clone the repository from GitHub:
    ```bash
-   git clone (https://github.com/kartik-m39/Library-Management-System)
+   git clone https://github.com/kartik-m39/Library-Management-System
    ```
 2. Navigate to the project directory:
    ```bash
