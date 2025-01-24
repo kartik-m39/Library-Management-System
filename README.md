@@ -7,11 +7,11 @@ This project is a command-line interface (CLI) application built using Python, `
 - **Remove Books**: Remove books from the catalog.
 - **Issue Books**: Record when books are issued to users.
 - **Logs**: Maintain a log of all issued books in a `Issued_books.csv` file.
-- **Persistent Data**: Library data is stored in a `library.csv` file.
+- **Persistent Data**: Library data is stored in a `Library.csv` file.
 
 ## Project Files
 1. **`project.py`**: Main Python script containing the logic for managing the library.
-2. **`library.csv`**: CSV file that stores the library catalog.
+2. **`Library.csv`**: CSV file that stores the library catalog.
 3. **`Issued_books.csv`**: CSV file that logs all book issuance and return activities.
 
 ## Setup Instructions
